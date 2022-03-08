@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(47, 141, 141);
+    text-align:center;
+    
+
+}
+
+h1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+h3{
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+} 
+
+p{ 
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white; 
+    padding:1%; 
+} 
+
+a{
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+iframe{
+    text-align: center;
+}
+
+.dark-mode{
+    background-color: black;
+    color:white;
+
+}
+.small-text{
+    font-size:50%
+}
+
+.medium-text{
+    font-size:100%
+}
+.large-text{
+    font-size:200%
+}
+
